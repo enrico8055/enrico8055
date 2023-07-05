@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @enrico8055
 - 👀 I’m interested in programming
-- 📫 I'm noob programmer and still learning 
+- 📫 I'm unstopable learner
 - 🙇‍♂️ Sorry my code still messy, hope can be better soon
 
 <!---
